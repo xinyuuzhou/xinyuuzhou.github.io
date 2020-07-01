@@ -11,7 +11,7 @@ redirect_from:
 <p align="center">
   <img src="https://raw.githubusercontent.com/cv-xinyuzhou/cv-xinyuzhou.github.io/master/files/XZHOU_.jpg" alt="Photo" style="width: 750px;"/> 
 </p>
-*updated on Jul. 1, 2020*
+ *updated on Jul. 1, 2020*
 
 # Introduction
 * I am currently a third year undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp).
