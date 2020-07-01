@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+(updated on Jul. 1, 2020)
+
 ## Education
 
 **School of Public Health, Fudan University, Shanghai, China  Sep. 2017 - Jul. 2022(expected)**
