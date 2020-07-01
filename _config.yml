@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinyu Zhou"
-  avatar           : "XZHOU_.jpg"
+  avatar           : "/file/XZHOU_.jpg"
   bio              : "Undergraduate Student, Fudan University, Shanghai, China (Sept. 2017 - Exp. Jun 2022)."
   location         : "Shanghai, China"
   employer         :
