@@ -13,7 +13,11 @@ redirect_from:
 </p>
 (updated on Jul. 1, 2020)
 
-# About me
-I am currently a undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp), majoring in Management (Health Policy and Management Track), with a double major in Chinese Language and Literature.[[Curriculum Vitae]()] [[Google Scholar](https://scholar.google.com/citations?user=lP_Xz1UAAAAJ&hl=en&authuser=1)] [[Researchgate](https://www.researchgate.net/profile/Xinyu_Zhou33)]. My research interests lie in social media mining, and my undergraduate research advisors are Prof. [Zhiyuan Hou](http://sph.fudan.edu.cn/t/150), Prof. Leesa Lin, Prof. [Heidi Larson](https://www.lshtm.ac.uk/aboutus/people/larson.heidi), and Prof. [Tim Bruckner](https://faculty.sites.uci.edu/bruckner/).
+# Introduction
+I am currently a third year undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp).
+My principal interests lie in applying texting mining techniques to analyse "big data" from social medias for issues surrounding COVID-19 and the vaccine.
 
-# Recent News
+# Education
+* Sept. 2017 - Exp. Jun. 2022 Bachelor of Art in Management, Health Policy and Management Track<br>
+[School of Public Health, Fudan University](http://sph.fudan.edu.cn/)
+
