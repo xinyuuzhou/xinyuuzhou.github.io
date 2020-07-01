@@ -27,7 +27,7 @@ redirect_from:
 Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 
 # Skills
-Programming Languages: Python(familiar), R(familiar), HTML, CSS, Javascript, Ruby
+Programming Languages: Python(familiar), R(familiar), HTML, CSS, Javascript, Ruby <br>
 *(linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, web scraper, and so on)
 
 
