@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
-I am currently a undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp), majoring in Management (Health Policy and Management Track), with a double major in Chinese Language and Literature.[[Curriculum Vitae]()] [[Google Scholar](https://scholar.google.com/citations?user=lP_Xz1UAAAAJ&hl=en&authuser=1)] [[Researchgate](https://www.researchgate.net/profile/Xinyu_Zhou33)]. My research interests lie in social media mining, and my undergraduate research advisors are Prof. [Zhiyuan Hou](http://sph.fudan.edu.cn/t/150)， Prof. Leesa Lin, Prof. [Heidi Larson](https://www.lshtm.ac.uk/aboutus/people/larson.heidi), and Prof. [Tim Bruckner](https://faculty.sites.uci.edu/bruckner/).
-
 ## Education
 
 **School of Public Health, Fudan University, Shanghai, China  Sep. 2017 - Jul. 2022(expected)**
@@ -26,25 +22,6 @@ I am currently a undergraduate student at [Fudan University](https://www.fudan.e
 - UC exchange program
 - GPA: 4.00/4.00
 
-## Research items
-
-**(2020.3)**[Assessment of public attention, risk perception, emotional and behavioural responses to the COVID-19 outbreak: social media surveillance in China](https://www.medrxiv.org/content/10.1101/2020.03.14.20035956v1)
-
-**(2020.5)**[Cross-Country Comparison of Public Attention, Rumours, and Behavioural Responses to the COVID-19 Epidemic: An Internet Surveillance Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586661)
-
-**(2020.5)**[Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://www.researchgate.net/publication/341556103_Assessment_of_public_awareness_risk_perception_and_mental_health_burden_during_the_first_3_months_of_the_COVID-19_epidemic_in_China_a_social_media_surveillance_Preprint)
-
-## Working papers
-
-- **Risk communication before the COVID-19 outbreak: an analysis of media reports**
-  - Supervisors: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
-- **Assessment of psychological impact of city closure and distant work in China during COVID-19 pandemic: social media surveillance on Sina Weibo**
-  - Supervisors: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
-- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo**
-  - Supervisor: Prof. Zhiyuan Hou (Fudan University)
-- **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**
-  - Supervisor: Prof. Tim Bruckner (UC Irvine)
- 
 ## Skills
 
 - **Python**, Familiar
@@ -56,6 +33,13 @@ I am currently a undergraduate student at [Fudan University](https://www.fudan.e
   - **Simulation**, Familiar
   - **Regression**, Familiar
   - **ggplot2**, Familiar&Learning
+ 
+ -**HTML**
+ -**CSS**
+ -**JavaScript**
+ -**Ruby**
+ -**Markdown**
+
   
 ## Internship
 
