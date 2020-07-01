@@ -42,6 +42,6 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 * 复旦大学远征社 社员, Sep. 2017 - Jan. 2018
 * 复旦大学中国象棋协会 社员, Sep. 2017 - Sep. 2018
 * 复旦大学学生会
- * 文艺部干事, Sep. 2017 - Jan. 2018
- * 外联部干事, Sep. 2017 - Jan. 2018
- * 外联部部助, Jan. 2018 - Jul. 2018
+ - 文艺部干事, Sep. 2017 - Jan. 2018
+ - 外联部干事, Sep. 2017 - Jan. 2018
+ - 外联部部助, Jan. 2018 - Jul. 2018
