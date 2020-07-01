@@ -14,8 +14,8 @@ redirect_from:
 (updated on Jul. 1, 2020)
 
 # Introduction
-I am currently a third year undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp).
-My principal research interest lies in applying texting mining techniques to analyse "big data" from social medias for issues surrounding emerging infectious disease (e.g. COVID-19) and the vaccine.
+* I am currently a third year undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp).
+* My principal research interest lies in applying texting mining techniques to analyse "big data" from social medias for issues surrounding emerging infectious disease (e.g. COVID-19) and the vaccine.
 
 # Education
 * **B.A. in Management (Health Policy and Management Track)** *Sept. 2017 - Exp. Jun. 2022<br>
@@ -36,21 +36,15 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 
 # Extracurricular activity
 * Club President,Fudan Chinese Chess Association, Sep. 2018 - Sep. 2019
-* 复旦大学学生会 新媒体中心副部长, Sep. 2018 - Jan. 2019
+* Vice-minister,Department of New Media, Fudan University Student Union, Sep. 2018 - Jan. 2019
+* Ministry Assistant,Department of external relationship, Fudan University Student Union, Mar. 2018-Jul. 2018
 * Class monitor, Fudan University School of Public Health, Feb 2019 - Now
-* 复旦大学19级社会科学实验班 助辅, Sep.2019 - Now
-* 复旦大学远征社 社员, Sep. 2017 - Jan. 2018
-* 复旦大学中国象棋协会 社员, Sep. 2017 - Sep. 2018
-* 复旦大学学生会
-  * 文艺部干事, Sep. 2017 - Jan. 2018
-  * 外联部干事, Sep. 2017 - Jan. 2018
-  * 外联部部助, Jan. 2018 - Jul. 2018
+* Assistant counselor, class of 2023, Social Science, Fudan University, Sep.2019
 
 # Awards
-* 复旦大学中国象棋新生杯 男子组个人冠军, Nov. 2017
-* 上海市中国象棋比赛 团体第二, Dec. 2017
-* 上海市中国象棋比赛 个人第七, Dec. 2017
-* 复旦大学远征社 优秀志愿者, Sep. 2018 - Jan. 2019
-* 复旦大学本科生三等奖学金, Sep. 2018
-* 复旦大学本科生三等奖学金, Sep. 2019
-* 复旦大学学生会社团骨干领航计划优秀成员, Sep. 2018
+* 1st, Fudan University freshman Chinese chess competition, Nov. 2017
+* 2nd(term), Shanghai Chinese chess competition, Dec. 2017
+* 7th, Shanghai Chinese chess competition, Dec. 2017
+* Outstanding volunteer, Fudan University "Yuanzheng" Association, Sep. 2018 - Jan. 2019
+* Fudan University third-class scholarship, Sep. 2018
+* Fudan University third-class scholarship, Sep. 2019
