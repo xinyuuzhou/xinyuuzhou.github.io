@@ -33,3 +33,15 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 * Research Assistant, [School of Management, Fudan University](https://www.fdsm.fudan.edu.cn/en/) (Dec. 2019 - Now)<br>
 * Research Assistant, [Public Health, University of California, Irvine](http://publichealth.uci.edu/ph/_home/) (Oct. 2019 - Jan. 2020)<br>
 * Research Assistant, [Department of Infectious Disease Epidemiology, LSHTM](https://www.lshtm.ac.uk/research/faculties/eph/ide) (May 2020 - Now)<br>
+
+# Extracurricular activity
+* 复旦大学中国象棋协会社长, Sep. 2018 - Sep. 2019
+* 复旦大学学生会 新媒体中心副部长, Sep. 2018 - Jan. 2019
+* 复旦大学公共卫生学院 17公管班班长, Feb 2019 - Now
+* 复旦大学19级社会科学实验班 助辅, Sep.2019 - Now
+* 复旦大学远征社 社员, Sep. 2017 - Jan. 2018
+* 复旦大学中国象棋协会 社员, Sep. 2017 - Sep. 2018
+* 复旦大学学生会
+ * 文艺部干事, Sep. 2017 - Jan. 2018
+ * 外联部干事, Sep. 2017 - Jan. 2018
+ * 外联部部助, Jan. 2018 - Jul. 2018
