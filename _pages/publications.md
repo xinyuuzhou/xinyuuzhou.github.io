@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=lP_Xz1UAAAAJ&hl=en&authuser=1)[(researchgate)](https://www.researchgate.net/profile/Xinyu_Zhou33)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=lP_Xz1UAAAAJ&hl=en&authuser=1) and [(Researchgate)](https://www.researchgate.net/profile/Xinyu_Zhou33)"
 permalink: /publications/
 author_profile: true
 ---
