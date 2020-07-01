@@ -15,16 +15,16 @@ redirect_from:
 
 # Introduction
 I am currently a third year undergraduate student at [Fudan University](https://www.fudan.edu.cn/en/main.psp).
-My principal interests lie in applying texting mining techniques to analyse "big data" from social medias for issues surrounding COVID-19 and the vaccine.
+My principal research interest lies in applying texting mining techniques to analyse "big data" from social medias for issues surrounding emerging infectious disease (e.g. COVID-19) and the vaccine.
 
 # Education
-* **B.A. in Management (Health Policy and Management Track)** Sept. 2017 - Exp. Jun. 2022<br>
+* **B.A. in Management (Health Policy and Management Track)** *Sept. 2017 - Exp. Jun. 2022<br>
 [School of Public Health, Fudan University](http://sph.fudan.edu.cn/)<br>
 Advisor: [Prof. Zhiyuan Hou](http://sph.fudan.edu.cn/t/150)<br>
 GPA: 3.48/4.00 Ranking: 11/120
-* **Double major in Chinese Language and Literature** Sept. 2018 - Exp. Jun. 2022<br>
+* **Double major in Chinese Language and Literature** *Sept. 2018 - Exp. Jun. 2022<br>
 [Department of Chinese Language and Literature, Fudan University](http://chinese.fudan.edu.cn/_t1959/main.psp)<br>
-* **Visiting student** Sept. 2019 - Dec. 2019<br>
+* **Visiting student** *Sept. 2019 - Dec. 2019<br>
 [School of Social Science, University of California, Irvine](https://www.socsci.uci.edu/)
 Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 
@@ -35,9 +35,9 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 * Research Assistant, [Department of Infectious Disease Epidemiology, LSHTM](https://www.lshtm.ac.uk/research/faculties/eph/ide) (May 2020 - Now)<br>
 
 # Extracurricular activity
-* 复旦大学中国象棋协会社长, Sep. 2018 - Sep. 2019
+* Club President,Fudan Chinese Chess Association, Sep. 2018 - Sep. 2019
 * 复旦大学学生会 新媒体中心副部长, Sep. 2018 - Jan. 2019
-* 复旦大学公共卫生学院 17公管班班长, Feb 2019 - Now
+* Class monitor, Fudan University School of Public Health, Feb 2019 - Now
 * 复旦大学19级社会科学实验班 助辅, Sep.2019 - Now
 * 复旦大学远征社 社员, Sep. 2017 - Jan. 2018
 * 复旦大学中国象棋协会 社员, Sep. 2017 - Sep. 2018
