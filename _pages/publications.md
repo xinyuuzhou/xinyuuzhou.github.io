@@ -15,11 +15,11 @@ Zhiyuan Hou, Fanxing Du, <b>Xinyu Zhou</b>, Hao Jiang, Sam Martin, Heidi Larson,
 <i></i>.
 
 # Working Papers
-- **Risk communication before the COVID-19 outbreak: an analysis of media reports**
+- **Risk communication before the COVID-19 outbreak: an analysis of media reports**<br>
 Supervisors: Prof. Zhiyuan Hou (Fudan University), Prof. Leesa Lin (LSHTM), and Prof. Heidi Larson(LSHTM)
-- **Assessment of psychological impact of city closure and distant work in China during COVID-19 pandemic: social media surveillance on Sina Weibo** 
+- **Assessment of psychological impact of city closure and distant work in China during COVID-19 pandemic: social media surveillance on Sina Weibo** <br>
 Supervisors: Prof. Zhiyuan Hou (Fudan University), Prof. Leesa Lin (LSHTM), and Prof. Heidi Larson(LSHTM)
-- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo**
+- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo**<br>
 Supervisor: Prof. Zhiyuan Hou (Fudan University)
-- **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**
+- **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**<br>
 Supervisor: Prof. Tim Bruckner (UC Irvine)
