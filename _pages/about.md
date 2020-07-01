@@ -22,7 +22,7 @@ redirect_from:
 [School of Public Health, Fudan University](http://sph.fudan.edu.cn/) Advisor: [Prof. Zhiyuan Hou](http://sph.fudan.edu.cn/t/150)<br>
 * **Double major in Chinese Language and Literature** *Sept. 2018 - Exp. Jun. 2022* <br>
 [Department of Chinese Language and Literature, Fudan University](http://chinese.fudan.edu.cn/_t1959/main.psp)<br>
-* **Visiting student** *Sept. 2019 - Dec. 2019 <br>
+* **Visiting student** *Sept. 2019 - Dec. 2019 <br>*
 [School of Social Science, University of California, Irvine](https://www.socsci.uci.edu/)
 Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 
@@ -48,6 +48,6 @@ Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
 * 1st, Fudan University freshman Chinese chess competition, *Nov. 2017*
 * 2nd(term), Shanghai Chinese chess competition, *Dec. 2017*
 * 7th, Shanghai Chinese chess competition, *Dec. 2017*
-* Outstanding volunteer, Fudan University "Yuanzheng" Association, *Sep. 2018 - Jan. 2019*
+* Outstanding volunteer, Fudan University "Yuanzheng" Association, *Sep. 2017 - Jan. 2018*
 * Fudan University third-class scholarship, *Sep. 2018*
 * Fudan University third-class scholarship, *Sep. 2019*
