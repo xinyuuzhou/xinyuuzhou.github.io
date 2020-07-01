@@ -13,3 +13,13 @@ Zhiyuan Hou, <b>Xinyu Zhou</b>, Hao Jiang, Fanxing Du, Heidi Larson, Leesa Lin.
 <b>[Cross-country comparison of public awareness, rumours, and behavioural responses to the COVID-19 epidemic: An internet surveillance study](https://www.researchgate.net/publication/342018165_Cross-country_comparison_of_public_awareness_rumours_and_behavioural_responses_to_the_COVID-19_epidemic_An_internet_surveillance_study_Preprint)</b> <br> 
 Zhiyuan Hou, Fanxing Du, <b>Xinyu Zhou</b>, Hao Jiang, Sam Martin, Heidi Larson, Leesa Lin.
 <i></i>.
+
+# Working Papers
+- **Risk communication before the COVID-19 outbreak: an analysis of media reports**
+Supervisors: Prof. Zhiyuan Hou (Fudan University), Prof. Leesa Lin (LSHTM), and Prof. Heidi Larson(LSHTM)
+- **Assessment of psychological impact of city closure and distant work in China during COVID-19 pandemic: social media surveillance on Sina Weibo** 
+Supervisors: Prof. Zhiyuan Hou (Fudan University), Prof. Leesa Lin (LSHTM), and Prof. Heidi Larson(LSHTM)
+- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo**
+Supervisor: Prof. Zhiyuan Hou (Fudan University)
+- **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**
+Supervisor: Prof. Tim Bruckner (UC Irvine)
