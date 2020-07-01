@@ -19,14 +19,17 @@ redirect_from:
 
 # Education
 * **B.A. in Management (Health Policy and Management Track)** *Sept. 2017 - Exp. Jun. 2022* <br>
-[School of Public Health, Fudan University](http://sph.fudan.edu.cn/)<br>
-Advisor: [Prof. Zhiyuan Hou](http://sph.fudan.edu.cn/t/150)<br>
-(GPA: 3.48/4.00. Ranking: 11/120)
+[School of Public Health, Fudan University](http://sph.fudan.edu.cn/) Advisor: [Prof. Zhiyuan Hou](http://sph.fudan.edu.cn/t/150)<br>
 * **Double major in Chinese Language and Literature** *Sept. 2018 - Exp. Jun. 2022* <br>
 [Department of Chinese Language and Literature, Fudan University](http://chinese.fudan.edu.cn/_t1959/main.psp)<br>
 * **Visiting student** *Sept. 2019 - Dec. 2019 <br>
 [School of Social Science, University of California, Irvine](https://www.socsci.uci.edu/)
 Advisor: [Prof. Tim Bruckner](https://faculty.sites.uci.edu/bruckner/)
+
+# Skills
+Programming Languages: Python(familiar), R(familiar), HTML, CSS, Javascript, Ruby
+*(linear regression, logistics regression, simulation, bootstrapping, LDA, Text-CNN, web scraper, and so on)
+
 
 # Internship
 * Research Assistant, [School of Public Health, Fudan University](http://sph.fudan.edu.cn/) *Apr. 2019 - Now* <br>
