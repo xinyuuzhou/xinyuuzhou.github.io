@@ -10,13 +10,13 @@ redirect_from:
 
 (updated on Jul. 1, 2020)
 
-## Education
+# Education
 
 **School of Public Health, Fudan University, Shanghai, China  Sep. 2017 - Jul. 2022(expected)**
 
 - Bachelor of Art in Management (Health Policy and Management Track)
   - GPA: 3.48/4.00
-  - Ranking: 10/120
+  - Ranking: 11/120
 - Double Major in Chinese Language and Literature
 
 **School of Social Science, University of California, Irvine, USA  Sep. 2019 - Dec. 2019**
@@ -24,7 +24,7 @@ redirect_from:
 - UC exchange program
 - GPA: 4.00/4.00
 
-## Skills
+# Skills
 
 - **Python**, Familiar
   - **Web Crawler**, Familiar
@@ -37,17 +37,22 @@ redirect_from:
   - **ggplot2**, Familiar&Learning
  
  -**HTML**
+ 
  -**CSS**
+ 
  -**JavaScript**
+ 
  -**Ruby**
+ 
  -**Markdown**
 
   
-## Internship
+# Internship
 
 - **Research assistant, Fudan University**, Nov. 2018 - Now
 - **Research assistant, UC Irvine**, Sep. 2019 - Jan. 2020
 - **Research assistant, LSHTM**, May 2020 - Now
+
 - **复旦大学中国象棋协会社长**, Sep. 2018 - Sep. 2019
 - **复旦大学学生会 新媒体中心副部长**, Sep. 2018 - Jan. 2019
 - **复旦大学公共卫生学院 17公管班班长**, Feb 2019 - Now
@@ -59,7 +64,7 @@ redirect_from:
   - **外联部干事**, Sep. 2017 - Jan. 2018
   - **外联部部助**, Jan. 2018 - Jul. 2018
 
-## Awards
+# Awards
 
 - **复旦大学中国象棋新生杯 男子组个人冠军**, Nov. 2017
 - **上海市中国象棋比赛 团体第二**, Dec. 2017
