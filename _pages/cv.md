@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://cv-xinyuzhou.github.io/files/CV_Xinyu_Zhou.pdf)
+Coming soon.
 
 <!-- <embed src="https://cv-xinyuzhou.github.io/files/CV_Xinyu_Zhou.pdf" width="650" height="1800" type='application/pdf'> -->
