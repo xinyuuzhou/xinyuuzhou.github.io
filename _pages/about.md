@@ -11,8 +11,11 @@ redirect_from:
  *updated on Oct. 18, 2020*
 
 # Introduction
-* I am currently a third year undergraduate student at School of Public Health, [Fudan University](https://www.fudan.edu.cn/en/main.psp).
+* I am currently a fourth year undergraduate student at School of Public Health, [Fudan University](https://www.fudan.edu.cn/en/main.psp).
 * My principal research interest lies in digital epidemiology (i.e. [infodemiology](https://en.wikipedia.org/wiki/Infodemiology))
+
+# NEWS
+* [2020.10.18]Our paper is accepted by *Journal of Medical Internet Research*.
 
 # Education
 * **B.A. in Management (Health Policy and Management Track)** *Sept. 2017 - Exp. Jun. 2022* <br>
