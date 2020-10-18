@@ -20,12 +20,12 @@ redirect_from:
 # Education
 * **B.A. in Management (Health Policy and Management Track)** *Sept. 2017 - Exp. Jun. 2022* <br>
 [School of Public Health, Fudan University](http://sph.fudan.edu.cn/) Advisor: [Prof. Zhiyuan Hou](http://sph.fudan.edu.cn/t/150)<br>
-  * **Double major in Chinese Language and Literature** <br>
-  * **Certificate in Big Data and Artificial Intelligence** <br>
-  * **Graduate Student Summer School "Application and innovation of Data Science"** <br>
+  * Double major in Chinese Language and Literature <br>
+  * Certificate in Big Data and Artificial Intelligence <br>
+  * Graduate Student Summer School "Application and innovation of Data Science" <br>
   
 * **UCEAP Visiting student** *Sept. 2019 - Dec. 2019 <br>*
 [School of Social Science, University of California, Irvine](https://www.socsci.uci.edu/)
 
 # Skills
-* Programming Languages: Python >> R > HTML, CSS, Javascript, Ruby <br>
+* Programming Languages: Python > R > HTML, CSS, Javascript, Ruby <br>
