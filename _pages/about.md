@@ -28,4 +28,4 @@ redirect_from:
 [School of Social Science, University of California, Irvine](https://www.socsci.uci.edu/)
 
 # Skills
-* Programming Languages: Python > R > HTML, CSS, Javascript, Ruby <br>
+* Programming Languages: Python > R > HTML, CSS, Javascript, Ruby, STATA <br>
