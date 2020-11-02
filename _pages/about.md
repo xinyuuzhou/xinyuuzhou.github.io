@@ -15,8 +15,8 @@ redirect_from:
 * My principal research interest lies in digital epidemiology (i.e. [infodemiology](https://en.wikipedia.org/wiki/Infodemiology))
 
 # NEWS
-* [2020.10.18]Our paper is accepted by *Journal of Medical Internet Research*.
 * [2020.11.2] Prof. Hou's recent study was accepted by *Vaccine*, congrats! I was acknowledged for "analyzing media surveillance data".
+* [2020.10.18]Our paper is accepted by *Journal of Medical Internet Research*.
 
 # Publications
 * [Cross-country comparison of public awareness, rumours, and behavioural responses to the COVID-19 epidemic: Infodemiology study](https://www.jmir.org/2020/8/e21143/)
@@ -26,8 +26,8 @@ redirect_from:
 
 # Working papers
 * Comparison of public response to containment measures during the first and second waves of COVID-19 epidemic: an infodemiology study in China (co-first author)
-* Mapping global, regional, and national vaccine acceptance and Influencing factors - a deep learning study (co-first author)
-and three more~~
+* Mapping global, regional, and national vaccine acceptance and Influencing factors - a deep learning study (co-first author) <br>
+*and three more~*
 
 # Education
 * **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022* <br>
