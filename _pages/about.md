@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- *updated on Oct. 18, 2020*
+ *updated on Nov. 2, 2020*
 
 # Introduction
 * I am currently a fourth year undergraduate student at School of Public Health, Fudan University.
