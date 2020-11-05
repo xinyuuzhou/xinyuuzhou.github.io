@@ -25,9 +25,8 @@ redirect_from:
 * [Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://www.researchgate.net/publication/341556103_Assessment_of_public_awareness_risk_perception_and_mental_health_burden_during_the_first_3_months_of_the_COVID-19_epidemic_in_China_a_social_media_surveillance_Preprint)
 
 # Working papers
-* Comparison of public response to containment measures during the first and second waves of COVID-19 epidemic: an infodemiology study in China (co-first author)
-* Mapping global, regional, and national vaccine acceptance and Influencing factors - a deep learning study (co-first author) <br>
-*and three more~*
+* Comparison of public response to containment measures during the first and second waves of COVID-19 epidemic: an infodemiology study in China (co-first author)<br>
+*and five more~*
 
 # Education
 * **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022* <br>
