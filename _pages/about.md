@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- *updated on Nov. 2, 2020*
+ *updated on Nov. 20, 2020*
 
 # Introduction
 * I am currently a fourth year undergraduate student in School of Public Health, Fudan University, with a GPA ranking around top 10% of the school.
