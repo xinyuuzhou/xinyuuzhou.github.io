@@ -5,8 +5,6 @@ permalink: /about_cn/
 author_profile: true
 ---
 
- *updated on Nov. 2, 2020*
-
 # 教育信息
 * **复旦大学**，“公共事业管理”专业，“汉语言文学”第二专业，“大数据应用与创新”暑期学校
 * **加州大学尔湾分校**， 交换生
