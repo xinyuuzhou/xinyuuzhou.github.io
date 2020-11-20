@@ -11,7 +11,8 @@ redirect_from:
  *updated on Nov. 2, 2020*
 
 # Introduction
-* I am currently a fourth year undergraduate student at School of Public Health, Fudan University.
+* I am currently a fourth year undergraduate student in School of Public Health, Fudan University, with a GPA ranking around top 10% of the school.
+* I was an exchange student in University of California, Irvine, during Fall 2019, with a GPA of 4.00/4.00.
 * My principal research interest lies in digital epidemiology (i.e. [infodemiology](https://en.wikipedia.org/wiki/Infodemiology))
 
 # NEWS
@@ -26,7 +27,7 @@ redirect_from:
 
 # Working papers
 * Comparison of public response to containment measures during the first and second waves of COVID-19 epidemic: an infodemiology study in China (co-first author)<br>
-*and five more~*
+* Four more working papers of mine are expected to submit during 2020. 
 
 # Education
 * **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022* <br>
