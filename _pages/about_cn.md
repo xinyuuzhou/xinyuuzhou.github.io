@@ -1,11 +1,8 @@
 ---
-permalink: /about_cn.md/
-title: ""
-excerpt: ""
+layout: archive
+title: "中文版个人简介"
+permalink: /about_cn/
 author_profile: true
-redirect_from: 
-  - /about_cn/
-  - /about_cn.html
 ---
 
  *updated on Nov. 2, 2020*
