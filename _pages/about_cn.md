@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about_cn.md/
 title: ""
 excerpt: ""
 author_profile: true
