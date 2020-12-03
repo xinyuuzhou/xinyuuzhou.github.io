@@ -20,7 +20,8 @@ redirect_from:
 * [2020.10.18]Our paper is accepted by *Journal of Medical Internet Research*.
 
 # Publications
-* [Cross-country comparison of public awareness, rumours, and behavioural responses to the COVID-19 epidemic: Infodemiology study](https://www.jmir.org/2020/8/e21143/)
+* [Cross-country comparison of public awareness, rumours, and behavioural responses to the COVID-19 epidemic: Infodemiology study](https://www.jmir.org/2020/8/e21143/)<br>
+Zhiyuan Hou, Fanxing Du, **Xinyu Zhou**, Hao Jiang, Sam Martin, Heidi Larson, Leesa Lin. Journal of Medical Internet Research.
 
 # Manuscripts submitted
 * [Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://www.researchgate.net/publication/341556103_Assessment_of_public_awareness_risk_perception_and_mental_health_burden_during_the_first_3_months_of_the_COVID-19_epidemic_in_China_a_social_media_surveillance_Preprint)<br>
