@@ -24,9 +24,9 @@ redirect_from:
 
 # Manuscripts submitted
 * [Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://www.researchgate.net/publication/341556103_Assessment_of_public_awareness_risk_perception_and_mental_health_burden_during_the_first_3_months_of_the_COVID-19_epidemic_in_China_a_social_media_surveillance_Preprint)<br>
-Zhiyuan Hou*, Xinyu Zhou, Hao Jiang, Fanxing Du, Heidi Larson, Leesa Lin
-* [Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study]()
-Xinyu Zhou#, Yi Song#, Hao Jiang, Qian Wang, Zhiqiang Qu, Linyao Lu, Mark Jit, Zhiyuan Hou*, Leesa Lin
+Zhiyuan Hou*, **Xinyu Zhou**, Hao Jiang, Fanxing Du, Heidi Larson, Leesa Lin
+* [Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study]()<br>
+**Xinyu Zhou#**, Yi Song#, Hao Jiang, Qian Wang, Zhiqiang Qu, Linyao Lu, Mark Jit, Zhiyuan Hou*, Leesa Lin
 
 # Working papers
 * Four more working papers of mine are expected to submit during 2020. 
@@ -34,7 +34,6 @@ Xinyu Zhou#, Yi Song#, Hao Jiang, Qian Wang, Zhiqiang Qu, Linyao Lu, Mark Jit, Z
 # Education
 * **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022* <br>
   Double major in Chinese Language and Literature <br>
-  Certificate in Big Data and Artificial Intelligence <br>
   Graduate Student Summer School "Application and innovation of Data Science" <br>
   
 * **Visiting student, University of California, Irvine** *Sept. 2019 - Dec. 2019 <br>*
