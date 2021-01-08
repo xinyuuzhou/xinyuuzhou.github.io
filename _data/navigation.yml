@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
+  - title: "Projects"
+    url: /projects/
+    
   - title: "CV/Bio"
     url: /cv/
     
-  - title: "Contact"
-    url: /contact/
-    
-  - title: "中文版个人简介"
-    url: /about_cn/
+  - title: "Blog"
+    url: /blog/ 
