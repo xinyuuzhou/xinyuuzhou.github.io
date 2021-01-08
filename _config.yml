@@ -13,7 +13,7 @@ name                     : &name "Xinyu Zhou"
 description              : &description "Undergraduate Student, Fudan University"
 url                      : https://xinyuuzhou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xinyuuzhou/xinyuuzhou.github.io"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Xinyu Zhou"
-  avatar           : "https://raw.githubusercontent.com/xinyuuzhou/xinyuuzhou.github.io/master/files/seal2.jpg"
+  avatar           : "https://raw.githubusercontent.com/xinyuuzhou/xinyuuzhou.github.io/master/_data/octopus.jpg"
   bio              : "Undergraduate Student, Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lP_Xz1UAAAAJ&hl=en&authuser=1"
-  email            :  xinyuzhou17@fudan.edu.cn
-  researchgate     :  https://www.researchgate.net/profile/Xinyu_Zhou33
+  email            :  
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
