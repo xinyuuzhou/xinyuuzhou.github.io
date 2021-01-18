@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
- *updated on Nov. 20, 2020*
- 
+[CV (in English)](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fxinyuuzhou%2Fxinyuuzhou.github.io%2Fmaster%2F_data%2Fxz_biosketch20200108.pdf)
+
 # Education
 * **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022* <br>
   Double major in Chinese Language and Literature <br>
