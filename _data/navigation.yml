@@ -3,8 +3,5 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "CV/Bio"
-    url: /cv/
-    
   - title: "Blog"
     url: /blog/ 
