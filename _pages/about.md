@@ -14,22 +14,21 @@ redirect_from:
 * **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022* <br>
   Double major in Chinese Language and Literature <br>
   Graduate Summer Session "Application and innovation of Data Science" <br>
-  GPA: 3.50/4.00, Ranking: 9/120
+  GPA: 3.46/4.00, Ranking: 13/120
 * **Visiting student, University of California, Irvine** *Sept. 2019 - Dec. 2019 <br>*
   GPA: 4.00/4.00
 
 # Publications
-* [Cross-country comparison of public awareness, rumours, and behavioural responses to the COVID-19 epidemic: Infodemiology study](https://www.jmir.org/2020/8/e21143/)<br>
-Zhiyuan Hou, Fanxing Du, **Xinyu Zhou**, Hao Jiang, Sam Martin, Heidi Larson, Leesa Lin. Journal of Medical Internet Research.
+* Hou Z, Du F, **Zhou X**, Jiang H, Martin S, Larson H, Lin L. Cross-country comparison of public awareness, rumors, and behavioral responses to the COVID-19 epidemic: infodemiology study. Journal of medical Internet research. 2020 Aug 3;22(8):e21143. DOI: [10.2196/21143](https://jmir.org/2020/8/e21143/).<br>
 
 # Manuscripts submitted
-* [Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://preprints.jmir.org/preprint/20498)<br>
-Zhiyuan Hou*, **Xinyu Zhou**, Hao Jiang, Fanxing Du, Heidi Larson, Leesa Lin
-* [Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study](https://preprints.jmir.org/preprint/26518)<br>
-**Xinyu Zhou#**, Yi Song#, Hao Jiang, Qian Wang, Zhiqiang Qu, Linyao Lu, Mark Jit, Zhiyuan Hou*, Leesa Lin
-* [Assessment of public attitude and uptake experience of COVID-19 tests in the United Kingdom and China: a comparative infodemiology study](https://preprints.jmir.org/preprint/26895)<br>
-Zhiyuan Hou, Leesa Lin, Yi Song, Qian Wang, Jialu Pu, Fiona Sun, Yixuan Zhang, **Xinyu Zhou**, Heidi Larson
+* **Zhou X**, Song Y, Jiang H, Wang Q, Qu Z, Zhou X, Jit M, Hou Z, Lin L. Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study. JMIR Preprints. 15/12/2020:26518. DOI: [10.2196/preprints.26518](https://preprints.jmir.org/preprint/26518).<br>
+
+* Hou Z, **Zhou X**, Jiang H, Du F, Larson H, Lin L. Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance. JMIR Preprints. 20/05/2020:20498. DOI: [10.2196/preprints.20498](https://preprints.jmir.org/preprint/20498).<br>
+
+* Hou Z, Lin L, Song Y, Wang Q, Pu J, Sun F, Zhang Y, **Zhou X**, Larson H. Assessment of public attitude and uptake experience of COVID-19 tests in the United Kingdom and China: a comparative infodemiology study. JMIR Preprints. 02/01/2021:26895. DOI: [10.2196/preprints.26895](https://preprints.jmir.org/preprint/26895).<br>
 
 # Skills
-* Programming Languages {Python > R > HTML, CSS, Javascript, Ruby, STATA} <br>
-* Adobe {Photoshop, Lightroom, Premiere Pro}
+* Programming Languages: Python > R > Latex, Ruby, and JAVA <br>
+* Softwares: Photoshop, Premiere Pro, STATA, Lightroom, Microsoft Excel & PowerPoint <br>
+* Languages: Mandarin(native), English(TOEFL iBT: 87)
