@@ -22,11 +22,11 @@ redirect_from:
 * Hou Z, Du F, **Zhou X**, Jiang H, Martin S, Larson H, Lin L. "Cross-country comparison of public awareness, rumors, and behavioral responses to the COVID-19 epidemic: infodemiology study". Journal of medical Internet research. 2020 Aug 3;22(8):e21143. DOI: [10.2196/21143](https://jmir.org/2020/8/e21143/).<br>
 
 # Manuscripts submitted
-* **Zhou X**, Song Y, Jiang H, Wang Q, Qu Z, Zhou X, Jit M, Hou Z, Lin L. "Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study". JMIR Preprints. 15/12/2020:26518. DOI: [10.2196/preprints.26518](https://preprints.jmir.org/preprint/26518).<br>
+* **Zhou X**<sup>*</sup>, Song Y<sup>*</sup>, Jiang H, Wang Q, Qu Z, Zhou X, Jit M, Hou Z<sup>†</sup>, Lin L. "Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study". JMIR Preprints. 15/12/2020:26518. DOI: [10.2196/preprints.26518](https://preprints.jmir.org/preprint/26518).<br>
 
-* Hou Z, **Zhou X**, Jiang H, Du F, Larson H, Lin L. "Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance. JMIR Preprints". 20/05/2020:20498. DOI: [10.2196/preprints.20498](https://preprints.jmir.org/preprint/20498).<br>
+* Hou Z<sup>†</sup>, **Zhou X**, Jiang H, Du F, Larson H, Lin L. "Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance. JMIR Preprints". 20/05/2020:20498. DOI: [10.2196/preprints.20498](https://preprints.jmir.org/preprint/20498).<br>
 
-* Hou Z, Lin L, Song Y, Wang Q, Pu J, Sun F, Zhang Y, **Zhou X**, Larson H. "Assessment of public attitude and uptake experience of COVID-19 tests in the United Kingdom and China: a comparative infodemiology study". JMIR Preprints. 02/01/2021:26895. DOI: [10.2196/preprints.26895](https://preprints.jmir.org/preprint/26895).<br>
+* Hou Z<sup>†</sup>, Lin L, Song Y, Wang Q, Pu J, Sun F, Zhang Y, **Zhou X**, Larson H. "Assessment of public attitude and uptake experience of COVID-19 tests in the United Kingdom and China: a comparative infodemiology study". JMIR Preprints. 02/01/2021:26895. DOI: [10.2196/preprints.26895](https://preprints.jmir.org/preprint/26895).<br>
 
 # Skills
 * Programming Languages: Python > R > Latex, Ruby, and JAVA <br>
