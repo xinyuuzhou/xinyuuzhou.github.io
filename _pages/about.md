@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[CV (in English)](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV.pdf)
+[Click here to download my CV](https://github.com/xinyuuzhou/xinyuuzhou.github.io/raw/master/_data/Xinyu_Zhou_CV.pdf)
 
 # Education
 * **B.A. in Management (Health Policy and Management Track), School of Public Health, Fudan University** *Sept. 2017 - Exp. Jun. 2022* <br>
