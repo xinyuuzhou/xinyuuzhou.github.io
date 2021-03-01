@@ -28,6 +28,12 @@ redirect_from:
 
 * Hou Z<sup>†</sup>, Lin L, Song Y, Wang Q, Pu J, Sun F, Zhang Y, **Zhou X**, Larson H. "Assessment of public attitude and uptake experience of COVID-19 tests in the United Kingdom and China: a comparative infodemiology study". JMIR Preprints. 02/01/2021:26895. DOI: [10.2196/preprints.26895](https://preprints.jmir.org/preprint/26895).<br>
 
+# Research Positions
+* Reviewer, Journal of medical Internet research
+* RA, Fudan University & London School of Hygiene & Tropical Medicine (2020-)
+* RA, UC Irvine (Fall 2019)
+* RA, Fudan University (2018-2019)
+
 # Skills
 * Programming Languages: Python > R > Latex, Ruby, and JAVA <br>
 * Softwares: Photoshop, Premiere Pro, STATA, Lightroom, Microsoft Excel & PowerPoint <br>
