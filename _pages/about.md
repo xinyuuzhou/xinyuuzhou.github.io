@@ -30,7 +30,7 @@ redirect_from:
 
 # Research Positions
 * Reviewer, Journal of medical Internet research
-* RA, Fudan University & London School of Hygiene & Tropical Medicine (2020-)
+* RA, Fudan University & LSHTM (2020-)
 * RA, UC Irvine (Fall 2019)
 * RA, Fudan University (2018-2019)
 
